@@ -1,0 +1,11 @@
+{
+  "name": "tololll",
+  "description": "tolol.",
+  "stack": "container",
+  "env": {
+    "SESSION_NAME": {
+      "description": "asu"
+      "required": false
+    }
+  }
+}
